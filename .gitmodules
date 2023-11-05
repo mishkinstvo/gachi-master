@@ -1,0 +1,6 @@
+[submodule "gachi-store"]
+	path = gachi-store
+	url = https://github.com/mishkinstvo/gachi-store
+[submodule "gachi-api"]
+	path = gachi-api
+	url = https://github.com/mishkinstvo/gachi-api
